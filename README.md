@@ -5,7 +5,8 @@ https://stackoverflow.com/questions/74722080/whenever-i-add-capybara-using-sessi
 
 1. Clone repo
 2. run `./bin/setup`
-3. run `rspec`
+3. run `yarn build` and `yarn build:css`
+4. run `rspec`
 
 Rspec hangs after entire suite EVEN THOUGH the tests pass:
 
